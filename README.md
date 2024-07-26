@@ -4,6 +4,9 @@ Welcome to the read-me file for the Intro to Statistics workshop.
 In this repo, you are going to find the code and files we are going to use for the practical part of the workshop, together with the ppt associated with this training.
 Below are the steps to do so and get set. 
 
+## Author
+Bonan Zhao
+
 
 ## On Noteable
 
