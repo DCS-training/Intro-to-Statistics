@@ -1,4 +1,4 @@
-# Intro-to-Statistics
+# Intro to Statistics
 
 Welcome to the read-me file for the Intro to Statistics workshop. 
 In this repo, you are going to find the code and files we are going to use for the practical part of the workshop, together with the ppt associated with this training.
@@ -117,3 +117,6 @@ organized, and will help you to find/file things in the future. This
 can be especially helpful when you have multiple projects. In general, you may
 create directories (folders) for **scripts**, **data**, and **documents**. 
 If you want to learn more about how to get set have a look (https://datacarpentry.org/R-ecology-lesson/00-before-we-start.html)[https://datacarpentry.org/R-ecology-lesson/00-before-we-start.html]
+
+## License
+This repository has a [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
