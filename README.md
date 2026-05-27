@@ -14,15 +14,13 @@ Bonan Zhao
 2. Login with your EASE credentials
 3. Select RStudio as a personal notebook server and press start
 4. Go to File >New Project>Version Control>Git
-5. Copy and Paste this repository URL https://github.com/DCS-training/PCA-2023 as the Repository URL
+5. Copy and Paste this repository URL [https://github.com/DCS-training/Intro-to-Statistics](https://github.com/DCS-training/Intro-to-Statistics) as the Repository URL
 6. The Project directory name will filled in automatically but you can change it if you want your folder in Notable to have a different name
 7. Decide where to locate the folder. By default, it will locate it in your home directory 
 8. Press Create Project
 
-Congratulations you have now pulled the content of the repository on your Notable server space the last thing you need to do is to install the packages not already installed in Noteable.
+Congratulations you have now pulled the content of the repository on your Notable server space the last thing you need to do is to install the packages not already installed in Noteable. You are going to find them listed at the top of the .R file
 
-1. Open the 'Install.R' file and run the code within it 
-2. Now you can open the 'PCA.R' file and you can follow along
 
 ## On your own machine
 
